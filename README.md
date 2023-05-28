@@ -33,6 +33,10 @@ Ensure that you have the following package installed:
 11. Now in the terminal `python wallet_setup.py`<br>
 12.  `python PYBTC.py`<br>
 ##
+# Platform
+
+<img src ="https://github.com/technicalhayden/technicalhayden.github.io/blob/45fa79c29809608b65c1fabefe9423cd12c47310/images/linux.png" width ="50" height ="50" algin ="center"/><img src ="https://github.com/technicalhayden/technicalhayden.github.io/blob/45fa79c29809608b65c1fabefe9423cd12c47310/images/macos.png" width ="50" height ="50" algin ="center"/><img src ="https://github.com/technicalhayden/technicalhayden.github.io/blob/45fa79c29809608b65c1fabefe9423cd12c47310/images/windows.png" width ="50" height ="50" algin ="center"/>
+##
 # About Author
 
 - 🔥 I’m good at developing tools/Software for Cyber Security/Investigation 
