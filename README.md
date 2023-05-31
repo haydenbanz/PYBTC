@@ -4,7 +4,9 @@ PyBTC  is a powerful Python-based tool for managing Bitcoin wallets, private key
 
 ![Top Language](https://img.shields.io/github/languages/top/addi00000/empyrean?color=%23000000)<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalhayden&label=Profile%20views&color=0e75b6&style=flat" alt="technicalhayden" /> </p>
-## Features
+
+##
+# Features
 
 - **Wallet Creation:** Easily create Bitcoin wallets to store your digital assets securely.
 - **Private Key Management:** Generate and manage private keys for your wallets.
