@@ -2,7 +2,7 @@
 <center> <img src ="https://github.com/technicalhayden/PYBTC/blob/6208cc5742a735404b64f2670a57a6385ab20998/png_20230529_085027_0000.png" width ="" height ="" algin ="center"/></center>
 PyBTC  is a powerful Python-based tool for managing Bitcoin wallets, private keys, sending BTC, and securely checking balances. This tool is created by madbot, 0x_hayden and 0x_t3ch, and it is completely based on Python.
 
-![Top Language](https://img.shields.io/github/languages/top/addi00000/empyrean?color=%23000000)<br<
+![Top Language](https://img.shields.io/github/languages/top/addi00000/empyrean?color=%23000000)<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalhayden&label=Profile%20views&color=0e75b6&style=flat" alt="technicalhayden" /> </p>
 ## Features
 
