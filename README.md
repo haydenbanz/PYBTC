@@ -24,16 +24,19 @@ Ensure that you have the following package installed:
 
 1. Clone the repository: `git clone https://github.com/technicalhayden/PYBTC.git`
 2. `cd PYBTC `<br>
-3. `pip install -r requirements.txt`<br>
-4. Go to the BlockCypher website at https://www.blockcypher.com/.
-5. Sign up for an account or log in if you already have one
-6. Once you're logged in, navigate to the account settings or API section of your BlockCypher account.
-7. Look for the API key or create a new API key if you don't have one already.
-8. Copy the API key.
-9. Now in the terminal `python setup.py`<br>
-10. now paste your API and click enter
-11. Now in the terminal `python wallet_setup.py`<br>
-12.  `python PYBTC.py`<br>
+3. `pip install -r requirements.txt` for kali linux   `sudo apt-get update
+sudo apt-get install python3-tk
+pip install blockcypher
+`<br>
+5. Go to the BlockCypher website at https://www.blockcypher.com/.
+6. Sign up for an account or log in if you already have one
+7. Once you're logged in, navigate to the account settings or API section of your BlockCypher account.
+8. Look for the API key or create a new API key if you don't have one already.
+9. Copy the API key.
+10. Now in the terminal `python setup.py`<br>
+11. now paste your API and click enter
+12. Now in the terminal `python wallet_setup.py`<br>
+13.  `python PYBTC.py`<br>
 ##
 # Platform
 
