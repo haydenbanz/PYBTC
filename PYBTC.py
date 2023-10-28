@@ -121,7 +121,7 @@ def run_file_4():
     webbrowser.open("https://www.blockcypher.com/")
 def run_file_5():
     # Open the browser with the specified URL
-    webbrowser.open("https://technicalhayden.github.io/pybtc")
+    webbrowser.open("haydenbanz.github.io/")
 # Create the main window
 pybtc = tk.Tk()
 
