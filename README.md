@@ -33,10 +33,10 @@ pip install blockcypher
 7. Once you're logged in, navigate to the account settings or API section of your BlockCypher account.
 8. Look for the API key or create a new API key if you don't have one already.
 9. Copy the API key.
-10. Now in the terminal `python setup.py`<br>
+10. Now in the terminal `python3 setup.py`<br>
 11. now paste your API and click enter
-12. Now in the terminal `python wallet_setup.py`<br>
-13.  `python PYBTC.py`<br>
+12. Now in the terminal `python3 wallet_setup.py`<br>
+13.  `python3 PYBTC.py` or for kali linux `python3 PYBTC-linux.py`<br>
 ##
 # Platform
 
