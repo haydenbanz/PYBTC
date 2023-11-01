@@ -40,13 +40,13 @@ pip install blockcypher
 ##
 # Platform
 
-<img src ="https://github.com/technicalhayden/technicalhayden.github.io/blob/45fa79c29809608b65c1fabefe9423cd12c47310/images/linux.png" width ="50" height ="50" algin ="center"/><img src ="https://github.com/technicalhayden/technicalhayden.github.io/blob/45fa79c29809608b65c1fabefe9423cd12c47310/images/macos.png" width ="50" height ="50" algin ="center"/><img src ="https://github.com/technicalhayden/technicalhayden.github.io/blob/45fa79c29809608b65c1fabefe9423cd12c47310/images/windows.png" width ="50" height ="50" algin ="center"/>
+<img src ="https://github.com/haydenbanz/haydenbanz.github.io/blob/45fa79c29809608b65c1fabefe9423cd12c47310/images/linux.png" width ="50" height ="50" algin ="center"/><img src ="https://github.com/technicalhayden/technicalhayden.github.io/blob/45fa79c29809608b65c1fabefe9423cd12c47310/images/macos.png" width ="50" height ="50" algin ="center"/><img src ="https://github.com/technicalhayden/technicalhayden.github.io/blob/45fa79c29809608b65c1fabefe9423cd12c47310/images/windows.png" width ="50" height ="50" algin ="center"/>
 ##
 # About Author
 
 - 🔥 I’m good at developing tools/Software for Cyber Security/Investigation 
 
-- 👨‍💻 More About me [technicalhayden.cf](technicalhayden.cf)
+- 👨‍💻 More About me [https://haydenbanz.github.io/](https://haydenbanz.github.io/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/technicalhayden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="technicalhayden" height="30" width="40" /></a>
@@ -59,23 +59,14 @@ Follow us on Twitter:
 
 <p align="left"> <a href="https://twitter.com/0x_t3ch" target="blank"><img src="https://img.shields.io/twitter/follow/0x_t3ch?logo=twitter&style=for-the-badge" alt="technicalhayden" /></a> </p>
 Learn more about us:
-- [technicalhayden.github.io](https://technicalhayden.github.io)
+- [https://code-glitchers.github.io/](https://code-glitchers.github.io/)
 - ## About the Authors
 
-This project is developed and maintained by madbot and 0x_t3ch. We are passionate about developing tools and software for cybersecurity and investigation.
+This project is developed and maintained by hayden banz. We are passionate about developing tools and software for cybersecurity and investigation.
 
 ##
-# Contributing<BR>
 
-Contributions to PyWalletBalance are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Before contributing, make sure to read and follow the project's Code of Conduct.
-<br>
-  1.Fork the repository.
-  2.Create a new branch for your feature or bug fix.<br>
-  3.Implement your feature or bug fix.<br>
-  4.Run the tests to ensure everything is working correctly.<br>
-  5.Commit your changes and push them to your forked repository.<br>
-  6.Submit a pull request explaining your changes.<br>
-  ##
+
   # License
   PyWalletBalance is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
   
