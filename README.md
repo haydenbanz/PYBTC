@@ -22,7 +22,7 @@ Ensure that you have the following package installed:
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/technicalhayden/PYBTC.git`
+1. Clone the repository: `git clone https://github.com/haydenbanz/PYBTC.git`
 2. `cd PYBTC `<br>
 3. `pip install -r requirements.txt` for kali linux   `sudo apt-get update
 sudo apt-get install python3-tk
