@@ -42,24 +42,8 @@ pip install blockcypher
 
 <img src ="https://github.com/haydenbanz/haydenbanz.github.io/blob/45fa79c29809608b65c1fabefe9423cd12c47310/images/linux.png" width ="50" height ="50" algin ="center"/><img src ="https://github.com/technicalhayden/technicalhayden.github.io/blob/45fa79c29809608b65c1fabefe9423cd12c47310/images/macos.png" width ="50" height ="50" algin ="center"/><img src ="https://github.com/technicalhayden/technicalhayden.github.io/blob/45fa79c29809608b65c1fabefe9423cd12c47310/images/windows.png" width ="50" height ="50" algin ="center"/>
 ##
-# About Author
-
-- 🔥 I’m good at developing tools/Software for Cyber Security/Investigation 
-
-- 👨‍💻 More About me [https://haydenbanz.github.io/](https://haydenbanz.github.io/)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/technicalhayden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="technicalhayden" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/technicalhayden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="technicalhayden" height="30" width="40" /></a>
-<a href="https://instagram.com/___.haydenbarnes.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="technicalhayden" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/technicalhayden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technicalhayden" height="30" width="40" /></a>
-</p>
-Follow us on Twitter:
 
 
-<p align="left"> <a href="https://twitter.com/0x_t3ch" target="blank"><img src="https://img.shields.io/twitter/follow/0x_t3ch?logo=twitter&style=for-the-badge" alt="technicalhayden" /></a> </p>
-Learn more about us:
-- [https://code-glitchers.github.io/](https://code-glitchers.github.io/)
 - ## About the Authors
 
 This project is developed and maintained by hayden banz. We are passionate about developing tools and software for cybersecurity and investigation.
